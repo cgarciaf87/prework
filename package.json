@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cgarciaf87/prework/issues"
   },
-  "homepage": "https://github.com/cgarciaf87/prework#readme"
+  "homepage": "https://github.com/cgarciaf87/prework#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
